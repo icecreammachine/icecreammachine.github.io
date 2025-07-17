@@ -1,7 +1,7 @@
 +++
 title = "From macOS to Arch Linux"
 date = "2025-03-16T17:25:28-04:00"
-author = ""
+author = "Andre"
 authorTwitter = "" #do not include @
 cover = ""
 coverCaption = ""
@@ -15,6 +15,7 @@ color = "" #color from the theme settings
 +++
 
 ### Intro
+
 I have been a macOS user for at least 13 years. Lately all big techs are pushing AI into every aspect of our lives, everything we interact with seems to have embedded AI.
 
 Computers are designed to execute tasks that we order them to execute, this is done with the help of the operating system which is the interface between us humans and the hardware.
